@@ -1,6 +1,6 @@
 {
   "name": "@mdmonu/fast-search",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A lightweight and efficient JavaScript package for quickly finding the index of a target number in an array.",
   "main": "index.js",
   "scripts": {

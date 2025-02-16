@@ -2,7 +2,7 @@
 
 ## 🔍 Overview
 
-**Fast Search** is a lightweight and efficient JavaScript package designed to quickly find the index of a target number within an array.
+**Fast Search** is a lightweight and efficient JavaScript package designed to quickly find the index of a target number within a sorted array.
 
 ## 📦 Installation
 

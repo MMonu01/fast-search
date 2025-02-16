@@ -12,7 +12,7 @@ function findIndex(arr, target_element) {
   let x = 0;
   let y = arr.length - 1;
 
-  while (x < y) {
+  while (x <= y) {
     const mid = Math.floor((x + y) / 2);
 
     if (arr[mid] > target_element) {

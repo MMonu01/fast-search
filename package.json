@@ -1,0 +1,40 @@
+{
+  "name": "fast-search",
+  "version": "1.0.0",
+  "description": "A lightweight and efficient JavaScript package for quickly finding the index of a target number in an array.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node TEST/script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MMonu01/fast-search.git"
+  },
+  "keywords": [
+    "fast search",
+    "array search",
+    "find index",
+    "binary search",
+    "efficient search",
+    "quick lookup",
+    "search algorithm",
+    "optimized search",
+    "number search",
+    "element index",
+    "array utilities",
+    "lightweight search",
+    "performance optimization",
+    "JavaScript search",
+    "find element in array"
+  ],
+  "author": {
+    "name": "Md Monu",
+    "email": "mdmonu2021@gmail.com",
+    "mobile": "+91 9315238455"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MMonu01/fast-search/issues"
+  },
+  "homepage": "https://github.com/MMonu01/fast-search#readme"
+}
